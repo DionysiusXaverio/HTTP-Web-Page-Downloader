@@ -1,1 +1,1 @@
-To run, use "./http_client [host] [port number] [filepath]"
+To run, use "./http_client [host] [port number] [filepath]". For example, "./http_client www.gnu.org 80 /software/make/manual/make.html"
